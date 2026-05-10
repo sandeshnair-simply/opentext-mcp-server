@@ -205,7 +205,6 @@ MIT — free to use, modify, and distribute.
 ## Author
 
 **Sandesh Nair**  
-Senior Manager, Accenture Global OpenText Practice  
-CCA-F Certified | OpenText + SAP Integration Specialist  
+ 
 [LinkedIn](https://www.linkedin.com/in/sandesh-nair) | [GitHub](https://github.com/YOUR_USERNAME)
 
